@@ -1,0 +1,5 @@
+OBJECT_BASE 4972777.btg
+OBJECT ZYTX.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 123.468085 41.630556 49.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 123.498765 41.649125 60.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 123.482162 41.640907 55.5 0.00
